@@ -1,6 +1,6 @@
 import "./globals.css";
 
-const defaultUrl = "http://localhost:3000";
+const defaultUrl = "http://localhost:4000";
 
 export const metadata = {
   metadataBase: new URL(defaultUrl),
